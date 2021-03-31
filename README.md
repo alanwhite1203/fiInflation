@@ -73,5 +73,6 @@ Notional	100
 
 
 
-You can find more details at
-https://finpricing.com/knowledge.html
+Reference:
+
+https://finpricing.com/faq.html

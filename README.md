@@ -75,4 +75,7 @@ Notional	100
 
 Reference:
 
-https://finpricing.com/faq.html
+https://finpricing.com/lib/EqBarrier.html
+
+https://bitbucket.org/cmrm11/fiinflation/downloads/FiInflationBond-15.pdf
+
